@@ -945,7 +945,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3ea14156a1bdcf49b35a87d6d1d0f78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  interval: 1
+  interval: 3
   prefabEnemy: {fileID: 776528592913777615, guid: 519816f35f6ad3444bf59ecda053b5d9, type: 3}
 --- !u!1001 &642559214
 PrefabInstance:
@@ -109025,7 +109025,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3ea14156a1bdcf49b35a87d6d1d0f78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  interval: 1
+  interval: 3
   prefabEnemy: {fileID: 776528592913777615, guid: 519816f35f6ad3444bf59ecda053b5d9, type: 3}
 --- !u!1001 &929501961
 PrefabInstance:
@@ -109354,6 +109354,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb96facbca8b03042a3b1b7e59b4d3af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1171616154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1171616147}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21414bd5f19f3114483a68d18d62a4d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data: {fileID: 11400000, guid: b24f0b65126b0274992a2d67f9783846, type: 2}
+  prefabDamage: {fileID: 9074756019282211968, guid: 1bc8e18832e09e7488ae68662cdfc757, type: 3}
 --- !u!1001 &1242704064
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -109688,7 +109702,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3ea14156a1bdcf49b35a87d6d1d0f78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  interval: 1
+  interval: 3
   prefabEnemy: {fileID: 776528592913777615, guid: 519816f35f6ad3444bf59ecda053b5d9, type: 3}
 --- !u!1001 &1358508283
 PrefabInstance:
@@ -109781,7 +109795,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3ea14156a1bdcf49b35a87d6d1d0f78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  interval: 1
+  interval: 3
   prefabEnemy: {fileID: 776528592913777615, guid: 519816f35f6ad3444bf59ecda053b5d9, type: 3}
 --- !u!4 &1362462435
 Transform:

@@ -16,4 +16,4 @@ MonoBehaviour:
   attack: 100
   moveSpeed: 3
   expProbability: 0.7
-  prefabExp: {fileID: 0}
+  prefabExp: {fileID: 4567455647751390290, guid: c40cdd8d2e8cb7447af2dd7c7b2188d0, type: 3}
